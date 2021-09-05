@@ -10,3 +10,5 @@ tekst pliku drugiego zmiana po branchu zmiana w repo main
 
 >>>>>>> feature
 po scaleniu do main
+
+nowe zmiany w pliku na gałęzi main

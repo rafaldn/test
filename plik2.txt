@@ -1,1 +1,3 @@
 tekst pliku drugiego zmiana po branchu zmiana w repo main
+
+nowe działania po scaleniu

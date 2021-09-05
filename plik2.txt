@@ -1,1 +1,1 @@
-tekst pliku drugiego zmiana2
+tekst pliku drugiego zmiana po branchu

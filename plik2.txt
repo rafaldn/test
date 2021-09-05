@@ -1,4 +1,4 @@
-
+nowa zmiana na feature
 tekst pliku drugiego zmiana2 na feature
 =======
 tekst pliku drugiego zmiana po branchu zmiana w repo main

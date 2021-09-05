@@ -14,3 +14,4 @@ po scaleniu do main
 nowe zmiany w pliku na gałęzi main
 
 jakaś zmiana do wersji
+nowa zmiana do przechodzenia po przeskakiwaniu po komitach

@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 tekst pliku drugiego zmiana po branchu zmiana w repo main
 
 nowe działania po scaleniu
+=======
+nowa zmiana na feature
+tekst pliku drugiego zmiana2 na feature
+=======
+tekst pliku drugiego zmiana po branchu zmiana w repo main
+
+>>>>>>> feature
+po scaleniu do main
